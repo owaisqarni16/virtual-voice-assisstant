@@ -135,7 +135,7 @@ if __name__=="__main__":
             print('Ayath -> Hai!!')
             speak('Hai!!')
         elif 'hello' in query:
-            print('Ayath -> Hell0!')
+            print('Ayath -> Hello!')
             speak('Hello!')
         elif 'thank you' in query:
             print('Ayath -> Your welcome!')
@@ -146,12 +146,6 @@ if __name__=="__main__":
         elif 'thankyou' in query:
             print('Ayath -> Your welcome!')
             speak('your welcome!')
-        elif 'tafheem' in query:
-            print('Ayath -> Tafheem is moti bacchi ')
-            speak('Tafheem is moti bacchi')
-        elif 'tafhim' in query:
-            print('Ayath -> Tafheem is moti bacchi ')
-            speak('Tafheem is moti bacchi')
         elif 'bye' in query:
             print('Ayath ->Bye see you soon...')
             speak('Bye see you soon...')
